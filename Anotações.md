@@ -18,4 +18,39 @@
 * Podemos ter mais de um bloco catch
 * Exceções específicas `FileNotFoundException` ou `DirectoryNotFoundeException`
 * Finally
-    *
+
+```csharp
+
+    using System ;
+
+    try
+    {
+
+        string[] linhas = File.ReadAllLines("Arquivos/arquivo_Leitura.txt");
+
+        foreach (string linha in linhas)
+        {
+            Console.WriteLine(linha);
+        }
+
+    }catch (FileNotFoundException ex)
+    {
+
+        Console.WriteLine($"Ocorreu um erro na leitura do arquivo. {ex.Message}");
+
+    }catch (Exception ex)
+    {
+
+        Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
+
+    }finally{
+        Console.WriteLine($"Chegou no Finally");
+    }
+
+```
+## Throw
+
+* Dispara ratreando em forma de cascata. (stack trace)
+* Se tiver um bloco cath será usado a exceção.
+
+    
