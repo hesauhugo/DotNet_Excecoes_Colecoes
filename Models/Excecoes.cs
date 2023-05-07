@@ -9,7 +9,17 @@ namespace DotNet_Excecoes_Colecoes.Models
     public class Excecoes
     {
         public void Metodo1(){
-            Metodo2();
+            try
+            {
+                Metodo2();
+            }
+            catch (Exception ex)
+            {
+                
+                Console.WriteLine($"Encontrou a exceção: {ex.Message}");
+                
+            }
+            
         }
 
         public void Metodo2(){
@@ -23,7 +33,5 @@ namespace DotNet_Excecoes_Colecoes.Models
         public void Metodo4(){
             throw new Exception("Ocorreu uma exceção");
         }                
-
-
     }
 }
