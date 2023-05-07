@@ -53,4 +53,48 @@
 * Dispara ratreando em forma de cascata. (stack trace)
 * Se tiver um bloco cath será usado a exceção.
 
-    
+```csharp
+    new Excecoes().Metodo1();
+```    
+
+## Filas
+
+* First In First Out
+
+```csharp
+
+    Queue<int> fila = new Queue<int>();
+
+    //incluir elementos
+    fila.Enqueue(2);
+    fila.Enqueue(4);
+    fila.Enqueue(6);
+    fila.Enqueue(8);
+
+    foreach (int item in fila)
+    {
+        Console.WriteLine(item);
+    }
+
+    //tirar elementos
+    Console.WriteLine($"Removendo o elemento: {fila.Dequeue()}");
+
+    foreach (int item in fila)
+    {
+        Console.WriteLine(item);
+    }
+
+    Console.WriteLine($"Adicionando elemento : {10}");
+    fila.Enqueue(10);
+
+    foreach (int item in fila)
+    {
+        Console.WriteLine(item);
+    }
+
+```
+
+## Pilhas
+
+* Remove o ultimo que entrou
+* Last In First Out
