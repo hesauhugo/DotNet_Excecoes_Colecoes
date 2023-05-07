@@ -15,3 +15,7 @@
 
 ## Try catch
 * Tratando excessão genéricas.
+* Podemos ter mais de um bloco catch
+* Exceções específicas `FileNotFoundException` ou `DirectoryNotFoundeException`
+* Finally
+    *
