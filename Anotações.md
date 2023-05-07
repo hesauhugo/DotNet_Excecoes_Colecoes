@@ -98,3 +98,32 @@
 
 * Remove o ultimo que entrou
 * Last In First Out
+
+```csharp
+    Stack<int> pilha = new Stack<int>();
+
+    pilha.Push(4);
+    pilha.Push(6);
+    pilha.Push(8);
+    pilha.Push(10);
+
+    foreach (int item in pilha)
+    {
+        Console.WriteLine(item);
+    }
+
+    Console.WriteLine($"Removendo o elemento do topo: {pilha.Pop()}");
+
+    Console.WriteLine($"Adicionando o elemento do topo: {20}");
+
+    pilha.Push(20);
+
+    foreach (int item in pilha)
+    {
+        Console.WriteLine(item);
+    }
+```
+
+## Dictionary
+
+* Chave valor sem uma ordem específica
