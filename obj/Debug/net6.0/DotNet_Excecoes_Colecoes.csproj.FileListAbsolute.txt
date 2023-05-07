@@ -1,0 +1,15 @@
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.csproj.AssemblyReference.cache
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.AssemblyInfoInputs.cache
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.AssemblyInfo.cs
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\bin\Debug\net6.0\DotNet_Excecoes_Colecoes.exe
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\bin\Debug\net6.0\DotNet_Excecoes_Colecoes.deps.json
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\bin\Debug\net6.0\DotNet_Excecoes_Colecoes.runtimeconfig.json
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\bin\Debug\net6.0\DotNet_Excecoes_Colecoes.dll
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\bin\Debug\net6.0\DotNet_Excecoes_Colecoes.pdb
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.dll
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\refint\DotNet_Excecoes_Colecoes.dll
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.pdb
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\DotNet_Excecoes_Colecoes.genruntimeconfig.cache
+G:\Meu Drive\.Net\DotNet_Excecoes_Colecoes\obj\Debug\net6.0\ref\DotNet_Excecoes_Colecoes.dll
