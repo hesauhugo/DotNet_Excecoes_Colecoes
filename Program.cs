@@ -21,5 +21,5 @@ try
     Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
 
 }finally{
-    Console.WriteLine($"Chegou no Finally")
+    Console.WriteLine($"Chegou no Finally");
 }
