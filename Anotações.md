@@ -127,3 +127,13 @@
 ## Dictionary
 
 * Chave valor sem uma ordem específica
+
+## Referências
+ 1. .[https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/tokens/interpolated]
+ 2. .[https://docs.microsoft.com/pt-br/dotnet/standard/base-types/custom-numeric-format-strings]
+ 3. .[https://www.c-sharpcorner.com/blogs/date-and-time-format-in-c-sharp-programming1]
+ 4. .[https://docs.microsoft.com/pt-br/dotnet/csharp/language-reference/tokens/interpolated]
+ 5. .[https://docs.microsoft.com/pt-br/dotnet/standard/base-types/custom-numeric-format-strings]
+ 6. .[https://docs.microsoft.com/pt-br/dotnet/api/system.datetime]
+ 7. .[https://riptutorial.com/csharp/example/19285/datetime-tryparseexact-string--string--iformatprovider--datetimestyles--datetime-]
+
